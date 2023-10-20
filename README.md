@@ -1,2 +1,2 @@
-# n-meros-multiplos
+# numeros-multiplos
 fazendo a conta de números multiplos
